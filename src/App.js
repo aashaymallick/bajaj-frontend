@@ -20,7 +20,7 @@ const App = () => {
     try {
       const parsedInput = JSON.parse(input);
 
-      const res = await fetch("https://bajaj-backend-1-dncz.onrender.com/bfhl", {
+      const res = await fetch("https://bajaj-backend-3-54b4.onrender.com/bfhl", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
