@@ -2,7 +2,7 @@
   "name": "bfhl-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://bajaj-backend-six-vert.vercel.app/",
+  "proxy": "https://bajaj-backend-9s1f.onrender.com",
   "dependencies": {
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.5",
